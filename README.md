@@ -12,7 +12,7 @@ project ini merupakan awal dari bagian proses belajar web development menggunaka
 - JavaScript (Vanilla)
 
 ##Demo
-https://username.github.io/project-name/
+https://irfanmuz.github.io/html-css-project-personal-profile/ 
 
 ##Struktur Folder
 project-name/
