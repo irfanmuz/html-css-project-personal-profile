@@ -33,6 +33,7 @@ body {
 .logo {
     max-width: 150px; /* Atur lebar maksimum logo */
     height: auto; /* Tinggi otomatis mengikuti lebar */
+    text-align: center;
 }
 
 footer {
