@@ -23,11 +23,15 @@ body {
 /*mengatur gaya untuk elemen header, footer, dan main secara spesifik*/
 /*=====Layout=====*/
 .header {
-    background-color: #f8f8f8;
+    background-color: var(--primary-color);
     padding: 10px 20px;
     display: flex; /* Menggunakan Flexbox untuk menata elemen */
     align-items: center; /* Pusatkan logo dan navigasi secara vertikal */
     justify-content: space-between; /* Beri jarak antara logo dan navigasi */
+}
+
+.center-text {
+    text-align: center;
 }
 
 .logo {
