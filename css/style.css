@@ -38,6 +38,12 @@ body {
     margin-right: auto;
 }
 
+.foto1 {
+    max-width: 150px; /* Atur lebar maksimum logo */
+    height: auto; /* Tinggi otomatis mengikuti lebar */
+    display: block;
+}
+
 footer {
     background-color: var(--primary-color);
     color: #fff;
