@@ -20,43 +20,20 @@ body {
     background-color: var(--background-color);
     line-height: 1.6;
 }
-/*mengatur gaya untuk elemen header, footer, dan main secara spesifik*/
-/*=====Layout=====*/
-.header {
-    background-color: var(--primary-color);
-    padding: 10px 20px;
-    display: flex; /* Menggunakan Flexbox untuk menata elemen */
-    align-items: center; /* Pusatkan logo dan navigasi secara vertikal */
-    justify-content: space-between; /* Beri jarak antara logo dan navigasi */
-}
 
-.center-text {
+.left-text {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    text-align: left;
 }
 
 .logo {
-    max-width: 150px; /* Atur lebar maksimum logo */
-    height: auto; /* Tinggi otomatis mengikuti lebar */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float: right;
+    margin-left: 15px;
+    width: 50%;
 }
 
-.foto1 {
-    max-width: 150px; /* Atur lebar maksimum logo */
-    height: auto; /* Tinggi otomatis mengikuti lebar */
-    display: block;
-}
-
-footer {
-    background-color: var(--primary-color);
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-}
 main {
     padding: 1.5rem;
 }
