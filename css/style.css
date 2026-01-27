@@ -39,6 +39,13 @@ main {
     text-align: left;
 }
 
+.right-text {
+    width: 50%;
+    margin-left: 30px;
+    margin-right: auto;
+    text-align: right;
+}
+
 .logo {
     float: right;
     margin-left: 15px;
