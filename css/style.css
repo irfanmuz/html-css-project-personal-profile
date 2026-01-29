@@ -37,7 +37,6 @@ main {
     margin-left: 10px;
     margin-right: auto;
     text-align: left;
-    margin-top: 30px;
 }
 
 .right-text {
@@ -46,12 +45,11 @@ main {
     align-items: right;
     text-align: right;
     height: inherit;
-    margin-top: 30px;
 }
 
 .logo {
     float: right;
-    margin-left: 0px;
+    margin-left: 15px;
     margin-right: 10px;
-    width: 15%;
+    width: 20%;
 }
