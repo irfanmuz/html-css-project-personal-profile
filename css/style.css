@@ -40,6 +40,13 @@ main {
     margin-bottom: 30px;
 }
 
+.left-text-bottom {
+    width: 50%;
+    margin-left: 10px;
+    margin-right: auto;
+    text-align: left;
+}
+
 .right-text {
     display: flex;
     justify-content: right;
