@@ -50,19 +50,12 @@ main {
 }
 
 .left-text-bottom {
+    display: flex;
     width: 50%;
     margin-left: 10px;
     margin-right: 10px;
     text-align: left;
     margin-top: 1.5rem;
-}
-
-.right-text {
-    display: flex;
-    justify-content: right;
-    align-items: right;
-    text-align: right;
-    height: inherit;
 }
 
 .logo {
