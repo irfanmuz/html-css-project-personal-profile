@@ -21,6 +21,13 @@ body {
     line-height: 1.6;
 }
 
+.container {
+    max-width: 1100px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0.2rem;
+}
+
 main {
     padding: 1.5rem;
 }
@@ -50,7 +57,6 @@ main {
 }
 
 .left-text-bottom {
-    display: flex;
     width: 50%;
     margin-left: 10px;
     margin-right: 10px;
