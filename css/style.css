@@ -32,6 +32,13 @@ main {
     text-align: center;
 }
 
+.left-text-about {
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+}
+
 .left-text {
     width: 50%;
     margin-left: 10px;
