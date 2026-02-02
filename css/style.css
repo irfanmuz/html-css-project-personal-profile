@@ -37,7 +37,7 @@ main {
     margin-left: 10px;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 30px;
+    margin-bottom: auto;
 }
 
 .left-text-bottom {
@@ -45,6 +45,7 @@ main {
     margin-left: 10px;
     margin-right: auto;
     text-align: left;
+    margin-top: auto;
 }
 
 .right-text {
