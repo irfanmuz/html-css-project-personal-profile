@@ -35,17 +35,17 @@ main {
 .left-text {
     width: 50%;
     margin-left: 10px;
-    margin-right: auto;
+    margin-right: 10px;
     text-align: left;
-    margin-bottom: auto;
+    margin-bottom: 30px;
 }
 
 .left-text-bottom {
     width: 50%;
     margin-left: 10px;
-    margin-right: auto;
+    margin-right: 10px;
     text-align: left;
-    margin-top: auto;
+    margin-top: 30px;
 }
 
 .right-text {
